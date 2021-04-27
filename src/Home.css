@@ -1,0 +1,11 @@
+.home__section {
+    display: flex;
+    padding: 30px;
+}
+
+@media (max-width: 640px) {
+    .home__section {
+        width: 655px;
+        /* height: 200px; */
+    }
+}
